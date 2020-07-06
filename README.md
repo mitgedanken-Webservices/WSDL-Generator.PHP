@@ -1,4 +1,4 @@
-# wsdl2phpgenerator
+# WSDL-Generator For PHP
 [![Latest Stable Version](https://poser.pugx.org/wsdl2phpgenerator/wsdl2phpgenerator/v/stable.png)](https://packagist.org/packages/wsdl2phpgenerator/wsdl2phpgenerator)
 [![Build Status](https://travis-ci.org/wsdl2phpgenerator/wsdl2phpgenerator.svg?branch=master)](https://travis-ci.org/wsdl2phpgenerator/wsdl2phpgenerator)
 [![Code Coverage](https://scrutinizer-ci.com/g/wsdl2phpgenerator/wsdl2phpgenerator/badges/coverage.png?s=91798255fd973950b1e2d7478f99d6f6f80cf6da)](https://scrutinizer-ci.com/g/wsdl2phpgenerator/wsdl2phpgenerator/)
